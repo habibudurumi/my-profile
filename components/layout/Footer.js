@@ -10,12 +10,12 @@ const Footer = () => {
       <SocialIcons socials={socials} />
       <p className='mt-4 text-xs'>
         {" "}
-        <span className='text-sm'> &copy;</span>
+        <span className='text-sm'> Copyright &copy;</span>
         {new Date().getFullYear()}{" "}
         <span className='text-xs'>Habibu Haruna Durumi </span>
       </p>
       <p className='text-xs'>All Rights Reserved</p>
-      <p className='text-xs'></p>
+   
     </footer>
   );
 };

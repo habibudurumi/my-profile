@@ -20,7 +20,7 @@ const About = () => {
               click and surf into web apps, I immediately start analyzing
               everything from the User Experience(UX) and the user Interface
               (UI), to the source code, operations and functionality - and
-              that's just in my spare time!
+              that&apos;s just in my spare time!
             </span>
             <span>
               Being a Nigerian, I have grown up with curiousity for programming
